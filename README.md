@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+APP CENTER
+[![Build status](https://build.appcenter.ms/v0.1/apps/3436adb1-9e1a-422c-a9dd-d1bb55fbcb48/branches/main/badge)](https://appcenter.ms)
+
+PUBLIC APP CENTER
+install.appcenter.ms/orgs/matcha-kitsune/apps/mental-health-tracker/distribution_groups/public
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
